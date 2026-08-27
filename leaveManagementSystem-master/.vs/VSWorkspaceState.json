@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\admin",
+    "\\admin\\inc",
+    "\\admin\\leave_applications",
+    "\\admin\\maintenance",
+    "\\admin\\reports",
+    "\\admin\\system_info",
+    "\\admin\\user",
+    "\\assets",
+    "\\libs"
+  ],
+  "PreviewInSolutionExplorer": false
+}
